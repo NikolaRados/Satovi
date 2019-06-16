@@ -1,0 +1,11 @@
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.csprojAssemblyReference.cache
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.csproj.CoreCompileInputs.cache
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.RazorAssemblyInfo.cache
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.RazorAssemblyInfo.cs
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.AssemblyInfoInputs.cache
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.AssemblyInfo.cs
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.TagHelpers.input.cache
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.TagHelpers.output.cache
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.dll
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.pdb
+C:\Users\dragan\source\repos\Satovi\SatoviMVCApplication\obj\Debug\netcoreapp2.2\SatoviMVCApplication.RazorCoreGenerate.cache
