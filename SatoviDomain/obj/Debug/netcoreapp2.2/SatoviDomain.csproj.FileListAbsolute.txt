@@ -1,0 +1,9 @@
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\bin\Debug\netcoreapp2.2\SatoviDomain.deps.json
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\bin\Debug\netcoreapp2.2\SatoviDomain.dll
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\bin\Debug\netcoreapp2.2\SatoviDomain.pdb
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\obj\Debug\netcoreapp2.2\SatoviDomain.csprojAssemblyReference.cache
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\obj\Debug\netcoreapp2.2\SatoviDomain.csproj.CoreCompileInputs.cache
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\obj\Debug\netcoreapp2.2\SatoviDomain.AssemblyInfoInputs.cache
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\obj\Debug\netcoreapp2.2\SatoviDomain.AssemblyInfo.cs
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\obj\Debug\netcoreapp2.2\SatoviDomain.dll
+C:\Users\dragan\source\repos\Satovi\SatoviDomain\obj\Debug\netcoreapp2.2\SatoviDomain.pdb
