@@ -1,0 +1,14 @@
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\bin\Debug\netcoreapp2.2\SatoviDataAccess.deps.json
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\bin\Debug\netcoreapp2.2\SatoviDataAccess.dll
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\obj\Debug\netcoreapp2.2\SatoviDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\obj\Debug\netcoreapp2.2\SatoviDataAccess.AssemblyInfoInputs.cache
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\obj\Debug\netcoreapp2.2\SatoviDataAccess.AssemblyInfo.cs
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\obj\Debug\netcoreapp2.2\SatoviDataAccess.csprojAssemblyReference.cache
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\bin\Debug\netcoreapp2.2\SatoviDataAccess.runtimeconfig.json
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\bin\Debug\netcoreapp2.2\SatoviDataAccess.runtimeconfig.dev.json
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\bin\Debug\netcoreapp2.2\SatoviDataAccess.pdb
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\bin\Debug\netcoreapp2.2\SatoviDomain.dll
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\bin\Debug\netcoreapp2.2\SatoviDomain.pdb
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\obj\Debug\netcoreapp2.2\SatoviDataAccess.csproj.CopyComplete
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\obj\Debug\netcoreapp2.2\SatoviDataAccess.dll
+C:\Users\dragan\source\repos\Satovi\SatoviDataAccess\obj\Debug\netcoreapp2.2\SatoviDataAccess.pdb
