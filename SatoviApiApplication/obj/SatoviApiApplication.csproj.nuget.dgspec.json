@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApiApplication\\SatoviApiApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApiApplication\\SatoviApiApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApiApplication\\SatoviApiApplication.csproj",
+        "projectName": "SatoviApiApplication",
+        "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApiApplication\\SatoviApiApplication.csproj",
+        "packagesPath": "C:\\Users\\dragan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApiApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dragan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApplication\\SatoviApplication.csproj": {
+                "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApplication\\SatoviApplication.csproj"
+              },
+              "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDataAccess\\SatoviDataAccess.csproj": {
+                "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDataAccess\\SatoviDataAccess.csproj"
+              },
+              "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviEfCommands\\SatoviEfCommands.csproj": {
+                "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviEfCommands\\SatoviEfCommands.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApplication\\SatoviApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApplication\\SatoviApplication.csproj",
+        "projectName": "SatoviApplication",
+        "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApplication\\SatoviApplication.csproj",
+        "packagesPath": "C:\\Users\\dragan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dragan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDataAccess\\SatoviDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDataAccess\\SatoviDataAccess.csproj",
+        "projectName": "SatoviDataAccess",
+        "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDataAccess\\SatoviDataAccess.csproj",
+        "packagesPath": "C:\\Users\\dragan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dragan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDomain\\SatoviDomain.csproj": {
+                "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDomain\\SatoviDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDomain\\SatoviDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDomain\\SatoviDomain.csproj",
+        "projectName": "SatoviDomain",
+        "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDomain\\SatoviDomain.csproj",
+        "packagesPath": "C:\\Users\\dragan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dragan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviEfCommands\\SatoviEfCommands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviEfCommands\\SatoviEfCommands.csproj",
+        "projectName": "SatoviEfCommands",
+        "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviEfCommands\\SatoviEfCommands.csproj",
+        "packagesPath": "C:\\Users\\dragan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviEfCommands\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dragan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApplication\\SatoviApplication.csproj": {
+                "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviApplication\\SatoviApplication.csproj"
+              },
+              "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDataAccess\\SatoviDataAccess.csproj": {
+                "projectPath": "C:\\Users\\dragan\\source\\repos\\Satovi\\SatoviDataAccess\\SatoviDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
