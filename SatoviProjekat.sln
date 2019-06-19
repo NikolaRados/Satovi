@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatoviAPI", "SatoviAPI\SatoviAPI.csproj", "{264DC909-C58D-44AE-A9CD-3CE374652E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatoviWebApplication", "SatoviWebApplication\SatoviWebApplication.csproj", "{198CD1C6-B3FB-439D-8527-137B14296D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatoviDomain", "SatoviDomain\SatoviDomain.csproj", "{E6500B1F-8614-4F56-BD50-C0D924A189F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatoviDataAccess", "SatoviDataAccess\SatoviDataAccess.csproj", "{D75D5DF4-CF55-4F25-8C7C-FA7740444CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatoviApplication", "SatoviApplication\SatoviApplication.csproj", "{8A968C3D-E86C-447C-9354-DF1ED92FD401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatoviEfCommands", "SatoviEfCommands\SatoviEfCommands.csproj", "{A6774982-E9E2-44CA-B55E-3B5274A69822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264DC909-C58D-44AE-A9CD-3CE374652E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264DC909-C58D-44AE-A9CD-3CE374652E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264DC909-C58D-44AE-A9CD-3CE374652E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264DC909-C58D-44AE-A9CD-3CE374652E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198CD1C6-B3FB-439D-8527-137B14296D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198CD1C6-B3FB-439D-8527-137B14296D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198CD1C6-B3FB-439D-8527-137B14296D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198CD1C6-B3FB-439D-8527-137B14296D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6500B1F-8614-4F56-BD50-C0D924A189F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6500B1F-8614-4F56-BD50-C0D924A189F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6500B1F-8614-4F56-BD50-C0D924A189F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6500B1F-8614-4F56-BD50-C0D924A189F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75D5DF4-CF55-4F25-8C7C-FA7740444CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75D5DF4-CF55-4F25-8C7C-FA7740444CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75D5DF4-CF55-4F25-8C7C-FA7740444CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75D5DF4-CF55-4F25-8C7C-FA7740444CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A968C3D-E86C-447C-9354-DF1ED92FD401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A968C3D-E86C-447C-9354-DF1ED92FD401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A968C3D-E86C-447C-9354-DF1ED92FD401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A968C3D-E86C-447C-9354-DF1ED92FD401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6774982-E9E2-44CA-B55E-3B5274A69822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6774982-E9E2-44CA-B55E-3B5274A69822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6774982-E9E2-44CA-B55E-3B5274A69822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6774982-E9E2-44CA-B55E-3B5274A69822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA69ACBD-0904-441E-806D-CFD121C2F352}
+	EndGlobalSection
+EndGlobal

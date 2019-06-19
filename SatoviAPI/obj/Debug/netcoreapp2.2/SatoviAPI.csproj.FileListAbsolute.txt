@@ -1,0 +1,14 @@
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\bin\Debug\netcoreapp2.2\SatoviAPI.deps.json
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\bin\Debug\netcoreapp2.2\SatoviAPI.runtimeconfig.json
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\bin\Debug\netcoreapp2.2\SatoviAPI.runtimeconfig.dev.json
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\bin\Debug\netcoreapp2.2\SatoviAPI.dll
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.csprojAssemblyReference.cache
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.csproj.CoreCompileInputs.cache
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.RazorAssemblyInfo.cache
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.RazorAssemblyInfo.cs
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.AssemblyInfoInputs.cache
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.AssemblyInfo.cs
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.RazorTargetAssemblyInfo.cache
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\bin\Debug\netcoreapp2.2\SatoviAPI.pdb
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.dll
+C:\Users\dragan\source\repos\SatoviProjekat\SatoviAPI\obj\Debug\netcoreapp2.2\SatoviAPI.pdb
