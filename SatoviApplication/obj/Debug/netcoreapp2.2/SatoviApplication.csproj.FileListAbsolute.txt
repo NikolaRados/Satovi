@@ -1,9 +1,0 @@
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\bin\Debug\netcoreapp2.2\SatoviApplication.deps.json
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\bin\Debug\netcoreapp2.2\SatoviApplication.dll
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\bin\Debug\netcoreapp2.2\SatoviApplication.pdb
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\obj\Debug\netcoreapp2.2\SatoviApplication.csprojAssemblyReference.cache
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\obj\Debug\netcoreapp2.2\SatoviApplication.csproj.CoreCompileInputs.cache
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\obj\Debug\netcoreapp2.2\SatoviApplication.AssemblyInfoInputs.cache
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\obj\Debug\netcoreapp2.2\SatoviApplication.AssemblyInfo.cs
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\obj\Debug\netcoreapp2.2\SatoviApplication.dll
-C:\Users\dragan\source\repos\Satovi\SatoviApplication\obj\Debug\netcoreapp2.2\SatoviApplication.pdb
